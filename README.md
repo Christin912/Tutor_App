@@ -45,3 +45,6 @@ Open in Android Studio.
 Connect Firebase project (replace google-services.json with your own).
 
 Run on an emulator or Android device.
+
+## Project Backlog 
+https://docs.google.com/spreadsheets/d/1QnkGH8R40GXikiiQBdWUVkj-aDAfsn0FYzjFwAHMXaU/edit?usp=sharing
