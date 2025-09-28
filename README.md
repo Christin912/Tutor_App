@@ -1,3 +1,7 @@
+<img width="992" height="828" alt="image" src="https://github.com/user-attachments/assets/70477c88-d773-4e95-890e-9a1a0f906fce" />
+
+
+
 # 📚 Tutor Scheduling Mobile App
 
 A mobile application designed to **simplify scheduling between students and tutors**. Built with a focus on reducing manual coordination, the app introduces an automated, rule-based scheduling system and integrated notification flows.  
